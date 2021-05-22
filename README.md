@@ -1,4 +1,4 @@
-# FreePascal in Docker
+# Free Pascal in Docker
 
 This repository contains a Dockerfile with which an Ubuntu image can be built that has Free Pascal installed. 
 It is published on Docker Hub as [primeimages/freepascal](https://hub.docker.com/repository/docker/primeimages/freepascal).
